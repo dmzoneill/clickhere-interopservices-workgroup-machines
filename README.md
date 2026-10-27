@@ -1,5 +1,9 @@
 # ClickHere Interop Services Workgroup Machines
 
+<p align="center">
+  <img src=".github/logo.png" alt="clickhere-interopservices-workgroup-machines logo" width="128" />
+</p>
+
 A VB.NET console program that lists the computers in a Windows
 workgroup.
 
